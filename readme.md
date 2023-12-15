@@ -2,3 +2,4 @@
 - Gregisaurus
 - Rosiechu
 - Tinasauraus
+- Amaripix
