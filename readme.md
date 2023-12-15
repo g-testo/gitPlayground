@@ -1,2 +1,3 @@
 # Pokemon Nickname
 - Gregisaurus
+- Rosiechu
