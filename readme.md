@@ -15,3 +15,4 @@
 - Aqualoris
 - TeePee
 - Armanite
+- Losbro
