@@ -8,3 +8,7 @@
 - Avi
 - Toria ^_^
 - LexiPie
+- Gabrisaurus
+- Kiki
+- JaviBear
+- Aqualoris
