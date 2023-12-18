@@ -14,3 +14,4 @@
 - Lily
 - Aqualoris
 - TeePee
+- Armanite
