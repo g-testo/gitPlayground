@@ -14,5 +14,3 @@
 - Lily
 - Aqualoris
 - TeePee
-- Armanite
-- Grrrrasaurus
